@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/netflix_cover.png" alt="Netflix EDA Cover" width="800">
+  <img src="public/netflix_cover.png" alt="Netflix EDA Cover" width="800">
 </p>
 
 
