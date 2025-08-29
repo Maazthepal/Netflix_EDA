@@ -58,6 +58,6 @@ Some of the key visualizations include:
 ## 📌 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/netflix-eda.git
+   git clone https://github.com/Maazthepal/Netflix_EDA.git
    cd netflix-eda
    pip install -r requirements.txt
