@@ -59,5 +59,5 @@ Some of the key visualizations include:
 1. Clone this repo:  
    ```bash
    git clone https://github.com/Maazthepal/Netflix_EDA.git
-   cd netflix-eda
+   cd Netflix_EDA
    pip install -r requirements.txt
