@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/netflix_cover.png" alt="Netflix EDA Cover" width="800">
+</p>
+
+
 # 📊 Netflix Exploratory Data Analysis (EDA)
 
 This project explores the **Netflix dataset** containing over **8,000+ movies and TV shows**, performing **Exploratory Data Analysis (EDA)** to identify patterns, trends, and insights about Netflix’s global catalog.
